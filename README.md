@@ -1,2 +1,2 @@
-# Team Residuals
- The goal is to better understand the defining characteristics of each group for Humana to strategically engage those who have not received the COVID-19 vaccine. 
+#Humana -Mays Case Competition – 2021
+#Classification of Individuals Hesitant to the COVID-19 Vaccine using Modern Machine Learning Methods
